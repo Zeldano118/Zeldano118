@@ -1,21 +1,19 @@
-# Hi, I'm Zeldano
+# Zeldano Shan Oeffie
 
-I build automation and AI tooling — mostly around [n8n](https://n8n.io) workflows and small, focused agents that solve one specific problem well rather than trying to be a general-purpose product. A lot of that happens through zelsite.id, where I build automation for small businesses (UMKM) in Indonesia.
+I study Information Systems at ITS Surabaya and build internal tools: automations, dashboards, AI tools that keep a person in the loop, and ERP work. I like taking systems apart to see how they work, then building a version that fits the people who use it.
 
-Outside client work, I spend a fair amount of time on personal tooling and NLP/ML coursework. The common thread is usually "can I make this thing understand or handle something on its own, reliably" — whether that's a lead-qualification pipeline or a voice assistant that knows when *not* to act without asking first.
+## Things I've built
 
-## Some things I've built
+- [Listing Audit Tool](https://zeldanooeffie.com/builds/listing-audit-tool): AI checks hotel and restaurant listings for Muslim-friendly details, and a reviewer makes the call.
+- [LearnPath](https://zeldanooeffie.com/builds/learnpath): a course recommender built to test whether an LLM can make picks more personal than collaborative filtering alone. [Code](https://github.com/Zeldano118/learnpath)
+- [Clinic Knowledge Bot](https://zeldanooeffie.com/builds/clinic-knowledge-bot): a Telegram assistant that answers patient questions only from the clinic's own documents.
+- [Odoo ERP for PT Gesit Nazelo](https://zeldanooeffie.com/builds/odoo-erp-gesit-nazelo): chart of accounts, user roles and a VPS deploy for a cathodic protection company.
+- [UNTR KPI Dashboard](https://zeldanooeffie.com/builds/untr-kpi-dashboard): a Power BI dashboard leadership can check at a glance.
 
-- **[umkm-inquiry-notifier](https://github.com/Zeldano118/umkm-inquiry-notifier)** — an n8n + Groq pipeline that turns incoming customer inquiries into structured, prioritized leads for small businesses, so nobody has to triage every message by hand.
-- **[duolingo-sentiment-analysis](https://github.com/Zeldano118/duolingo-sentiment-analysis)** and **[QPon_NLP_PBA](https://github.com/Zeldano118/QPon_NLP_PBA)** — sentiment analysis on real app-store review data, comparing Naive Bayes, Logistic Regression, and SVM.
-- **Jarwis** — a local voice assistant that wraps Claude Code: clap to start talking, verbal confirmation before it touches anything on my machine, session memory across conversations, and a small reactive UI that shows what it's doing. Private repo for now.
-
-## Working with
-
-Python, n8n, JavaScript/React, scikit-learn, Whisper and TTS APIs, Claude Code
+The rest is on [zeldanooeffie.com](https://zeldanooeffie.com).
 
 ## Elsewhere
 
-- [LinkedIn](http://www.linkedin.com/in/zeldanoshanoeffie)
+- [LinkedIn](https://www.linkedin.com/in/zeldanoshanoeffie)
 - [Medium](https://medium.com/@kerjaanzeldano)
-- [Instagram](https://instagram.com/zelcollege)
+- Email: kerjaanzeldano@gmail.com
